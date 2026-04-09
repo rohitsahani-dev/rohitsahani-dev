@@ -1,38 +1,58 @@
 ![PersonalSignature04](https://github.com/user-attachments/assets/1108ff71-394b-4c61-a2da-58aec9d7fdae)
 
-# Hi, I'm Rohit Sahani 👋
+# Rohit Sahani
 
-🎓 BIC Student  
-💻 Aspiring Python & AI Developer  
-
----
-
-## 🚀 About Me
-- 🔭 Currently learning Python & AI fundamentals  
-- 🧠 Interested in Machine Learning and problem solving  
-- ⚡ Goal: Become a skilled AI developer and build real-world projects  
+BIC Student | Aspiring Python & AI Developer  
 
 ---
 
-## 🛠️ Skills (Learning)
-- Python  
-- Data Structures (Basics)  
-- AI / Machine Learning (Beginner)  
+## 🚀 Profile
+A motivated student with a strong interest in Python programming and artificial intelligence. Focused on building a solid technical foundation, improving problem-solving skills, and developing real-world projects.
 
 ---
 
-## 📌 Current Focus
-- Improving Python programming  
-- Building small AI-related projects  
-- Strengthening problem-solving skills  
+## 🛠️ Technical Focus
+- Python Programming  
+- Data Structures & Algorithms (Basics)  
+- Artificial Intelligence & Machine Learning (Fundamentals)  
 
 ---
 
-## 📫 Contact Me
-- 📧 rohit.sahani.dev@email.com  
-- 📞 +977 9824350906  
+## 📌 Current Goals
+- Strengthen core programming skills in Python  
+- Build practical AI-related projects  
+- Develop consistent and efficient problem-solving ability  
 
 ---
 
-## ⚠️ Work in Progress
-This profile will be updated as I build and upload projects.
+## 🎓 Education
+- Bachelor’s (BCS), Biratnagar International College  
+- +2 Completed from BKVM  
+
+---
+
+## 📍 Location
+Biratnagar-12, Morang, Nepal  
+
+---
+
+## 🎯 Interests
+- Artificial Intelligence & Technology  
+- Problem Solving  
+- Table Tennis  
+
+---
+
+## 📂 Projects
+> Currently building projects — updates coming soon  
+
+---
+
+## 📫 Contact
+- Email: rohit.sahani.dev  
+- Phone: +977 9824350906  
+
+---
+
+## ⚠️ Note
+This profile is actively being developed as I continue learning and building in Python and AI.
