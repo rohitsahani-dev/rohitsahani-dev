@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**rohitsahani-dev/rohitsahani-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Rohit Sahani 👋
 
-Here are some ideas to get you started:
+🎓 BIC Student  
+💻 Aspiring Python & AI Developer  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+- 🔭 Currently learning Python & AI fundamentals  
+- 🧠 Interested in Machine Learning and problem solving  
+- ⚡ Goal: Become a skilled AI developer and build real-world projects  
+
+---
+
+## 🛠️ Skills (Learning)
+- Python  
+- Data Structures (Basics)  
+- AI / Machine Learning (Beginner)  
+
+---
+
+## 📌 Current Focus
+- Improving Python programming  
+- Building small AI-related projects  
+- Strengthening problem-solving skills  
+
+---
+
+## 📫 Contact Me
+- 📧 yourname@email.com  
+- 📞 +977 9824350906  
+
+---
+
+## ⚠️ Work in Progress
+This profile will be updated as I build and upload projects.
