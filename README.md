@@ -1,4 +1,4 @@
-![Profile Pic](https://github.com/user-attachments/assets/2ee21d95-320a-49bd-b53a-c9d4fd5a9994)
+
 
 # Hi, I'm Rohit Sahani 👋
 
