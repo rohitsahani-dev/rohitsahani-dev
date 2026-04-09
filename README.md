@@ -49,7 +49,7 @@ Biratnagar-12, Morang, Nepal
 ---
 
 ## 📫 Contact
-- Email: rohit.sahani.dev  
+- Email: rohit.sahani.dev@gmail.com  
 - Phone: +977 9824350906  
 
 ---
